@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EreaApp</string>
+    <string name="no_border_states">There Are No Border States</string>
+    <string name="borders_countries">Borders Countries</string>
+    <string name="list_order_by">Order by</string>
+    <string name="order_by_name">name</string>
+    <string name="order_by_size">size</string>
+</resources>
